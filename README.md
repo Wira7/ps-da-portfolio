@@ -2,12 +2,15 @@
 Hello! My name is Pinky Siawira, you can call me Wira. Here is my Portfolio as Data Analyst, please check it out!
 
 ## Spreadsheet/ Excel Skills sets:
-- Data Cleaning
+- Basic Data Cleaning
 - Pivot Table
 - Vlookup
 - Descriptive Statistics
-- Data Visualization
-- Gathering Insights
+- Exploratory Data Analysis
+- Correlation
+- Regression
+- Hypothesis Testing
+
 
 <b> Spreadsheet link </b>
 
@@ -15,10 +18,11 @@ Hello! My name is Pinky Siawira, you can call me Wira. Here is my Portfolio as D
 
 ## SQL Skill sets
 - Standard Query Syntax
+- SQL Date Functions
 - SQL Aggregate Functions
 - SQL Joins
-- SQL Data Type
-- SQL Date Format
+- SQL Union
+- SQL CTE or Subquery
 - SQL Window Function
 
 <b> Code Example: </b>
